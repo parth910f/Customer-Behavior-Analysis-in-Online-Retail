@@ -1,4 +1,3 @@
-# Online Retail Data Clustering Project
 # 🛒 Online Retail Data Analysis  
 
 ## 📌 Overview  
