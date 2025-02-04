@@ -1,4 +1,4 @@
-# 🛒 Online Retail Data Analysis  
+# 🛒 Customer Behavior Analysisa Analysis  
 
 ## 📌 Overview  
 This project analyzes real-world online retail transaction data from a **UK-based e-commerce business** that operates as a non-store retailer selling unique all-occasion giftware. The dataset spans from **December 1, 2009, to December 9, 2011**, containing over **1 million transactions**.  
