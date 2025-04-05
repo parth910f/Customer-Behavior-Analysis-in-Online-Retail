@@ -84,7 +84,7 @@ The dataset includes **1,067,371 rows** representing transactions over a two-yea
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/Online-Retail-Analysis.git
+git clone https://github.com/parth910f/Online-Retail-Analysis.git
 cd Online-Retail-Analysis
 Footer
 © 2025 GitHub, Inc.
