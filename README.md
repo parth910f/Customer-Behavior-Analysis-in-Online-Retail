@@ -8,6 +8,7 @@ This project analyzes real-world online retail transaction data from a **UK-base
 ✔ Performing **Exploratory Data Analysis (EDA)**  
 ✔ Identifying **customer purchasing behavior and trends**  
 
+
 This project is useful for **business intelligence and market analysis**.  
 
 ---
